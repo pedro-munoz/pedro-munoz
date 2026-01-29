@@ -1,11 +1,7 @@
 # Pedro Muñoz
 
-✅ I help companies and organizations to solve their problems through data analysis. I like to do a careful and very organized work so that my solutions stand out.
+I design Artificial Intelligence systems for companies, it's both my passion and my profession. Over the years, I've built one of Spain's most specialized AI firms, with a focus on technical excellence and delivering practical, impactful solutions. I’m proud that our reputation is built on real results and client reviews rather than sales presentations.
 
-✅ I have a broad experience in the Big Data ecosystem (Spark, Impala, Flume...) and in the Machine Learning one (Tensorflow, OpenCV, Scikit-Learn...).
+Beyond my work at WhiteBox, I launched one of Spain’s first DaaS platforms, DataMarket, and was honored to represent Spain at the AWS DeepRacer World League in Las Vegas after winning the national league in 2019. I also hold honors degrees in Aerospace Engineering and Applied Mathematics from Universidad Politécnica de Madrid.
 
-✅ I am the AWS DeepRacer Spanish League winner, where I developed an autonomous driven car model using Reinforcement Learning.
-
-✅ I am the creator of an open source project [datatau](https://datatau.net), which is a Data Science newsboard based on Hacker News, [datamarket](https://datamarket.es), one of the first DaaS (Data as a Service) platforms in Spain, and [elminutador](https://elminutador.es) a real time speech to text tool fine-tuned for Spain TV and media.
-
-✅ You can get a detailed CV at [pedro-munoz.tech](https://pedro-munoz.tech). I'm currently doing AI consultancy at my own company [WhiteBoxᴹᴸ](https://whiteboxml.com), which I founded in 2019.
+You can get a detailed CV at [pedro-munoz.tech](https://pedro-munoz.tech).
